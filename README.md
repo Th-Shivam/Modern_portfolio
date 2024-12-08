@@ -18,8 +18,8 @@ Welcome to my personal portfolio website! 🚀 This project showcases my skills,
 - **Hosting**: Github
 
 ## 🖼️ Screenshots
-![Portfolio Home](./screenshots/home.png)
-![Portfolio Projects](./screenshots/projects.png)
+![Portfolio Home](./assets/images/home.png)
+![Portfolio Projects](./assets/images/projects.png)
 
 ## 🚀 How to Use
 1. Clone this repository:
